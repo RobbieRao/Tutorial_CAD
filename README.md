@@ -50,6 +50,18 @@ The tutorials are numbered sequentially to follow the workshop curriculum:
 13. **12_Bevel.mp4**
     *   Adding bevels to edges for a polished, finished look.
 
+14. **13_Measurement.mp4**
+    *   Measuring dimensions to ensure the design meets human scale requirements.
+
+15. **14_FilltheholeAtEdge.mp4**
+    *   Advanced techniques for closing gaps and holes specifically at the boundaries of the scan.
+
+16. **15_FilltheSolidhole.mp4**
+    *   Techniques for creating solid fills for complex internal voids.
+
+17. **16_FixMeshandRemesh.mp4**
+    *   Final mesh cleanup and secondary remeshing for optimized production geometry.
+
 ## 🛠️ Software Used
 
 *   **Blender** (Primary tool for organic modeling and pattern generation)
